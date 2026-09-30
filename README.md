@@ -249,6 +249,7 @@ Adaptive Learning Platform
 **Website**
 
 https://tayari24.com
+[https://tayari24.com](https://tayari24.com)
 
 **Support**
 
